@@ -1,0 +1,17 @@
+.heading{
+    width: 100%;
+    font-size: 30px;
+    color: beige;
+}
+
+.heading h4{
+    float: left;
+}
+
+.heading button{
+    float: right;
+}
+
+#canvas{
+    margin-bottom:0;
+}
